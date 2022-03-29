@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+My Name is Selina Stiegelbauer!
 Use the left arrow to go back!
